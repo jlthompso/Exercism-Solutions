@@ -1,3 +1,7 @@
+"""
+Helper functions to calculate the bake time of a lasagna.
+"""
+
 EXPECTED_BAKE_TIME = 40  # minutes
 PREPARATION_TIME = 2  # minutes per layer
 
